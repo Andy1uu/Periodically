@@ -10,7 +10,7 @@ public class PeriodicallyReader {
 
     private ArrayList<Element> elements;
 
-    public PeriodicallyReader(String fileName) {
+    public PeriodicallyReader(String fileName) throws FileNotFoundException {
 
         elements = this.readElementsFile(fileName);
 
@@ -38,18 +38,22 @@ public class PeriodicallyReader {
             in.nextLine();
 
             while (in.hasNext()) {
-                
+
                 String[] currentElementData = in.nextLine().split(",");
-                
-                Element currentElement = new Element();
-                
+
+                Element currentElement = new Element(currentElementData[0],
+                    currentElementData[1], Integer.parseInt(
+                        currentElementData[2]), Double.parseDouble(
+                            currentElementData[3]), currentElementData[4],
+                    currentElementData[5]);
+
                 tempElements.add(currentElement);
             }
 
         }
 
         in.close();
-        
+
         return tempElements;
     }
 

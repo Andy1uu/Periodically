@@ -1,0 +1,119 @@
+name,symbol,atomic number,atomic mass,State At Room Temperature,metal or nonmetal?
+Hydrogen,H,1,1.00794,Gas,nonmetal
+Helium,He,2,4.002602,Gas,noble gas
+Lithium,Li,3,6.941,Solid,alkali metal
+Beryllium,Be,4,9.012182,Solid,alkaline earth metal
+Boron,B,5,10.811,Solid,metalloid
+Carbon,C,6,12.0107,Solid,nonmetal
+Nitrogen,N,7,14.0067,Gas,nonmetal
+Oxygen,O,8,15.9994,Gas,nonmetal
+Fluorine,F,9,18.9984032,Gas,halogen
+Neon,Ne,10,20.1797,Gas,noble gas
+Sodium,Na,11,22.98976928,Solid,alkali metal
+Magnesium,Mg,12,24.305,Solid,alkaline earth metal
+Aluminum,Al,13,26.9815386,Solid,metal
+Silicon,Si,14,28.0855,Solid,metalloid
+Phosphorus,P,15,30.973762,Solid,nonmetal
+Sulfur,S,16,32.065,Solid,nonmetal
+Chlorine,Cl,17,35.453,Gas,halogen
+Argon,Ar,18,39.948,Gas,noble gas
+Potassium,K,19,39.0983,Solid,alkali metal
+Calcium,Ca,20,40.078,Solid,alkaline earth metal
+Scandium,Sc,21,44.955912,Solid,transition metal
+Titanium,Ti,22,47.867,Solid,transition metal
+Vanadium,V,23,50.9415,Solid,transition metal
+Chromium,Cr,24,51.9961,Solid,transition metal
+Manganese,Mn,25,54.938045,Solid,transition metal
+Iron,Fe,26,55.845,Solid,transition metal
+Cobalt,Co,27,58.933195,Solid,transition metal
+Nickel,Ni,28,58.6934,Solid,transition metal
+Copper,Cu,29,63.546,Solid,transition metal
+Zinc,Zn,30,65.38,Solid,transition metal
+Gallium,Ga,31,69.723,Solid,metal
+Germanium,Ge,32,72.64,Solid,metalloid
+Arsenic,As,33,74.9216,Solid,metalloid
+Selenium,Se,34,78.96,Solid,nonmetal
+Bromine,Br,35,79.904,Liquid,halogen
+Krypton,Kr,36,83.798,Gas,noble gas
+Rubidium,Rb,37,85.4678,Solid,alkali metal
+Strontium,Sr,38,87.62,Solid,alkaline earth metal
+Yttrium,Y,39,88.90585,Solid,transition metal
+Zirconium,Zr,40,91.224,Solid,transition metal
+Niobium,Nb,41,92.90638,Solid,transition metal
+Molybdenum,Mo,42,95.96,Solid,transition metal
+Technetium,Tc,43,98,Solid,transition metal
+Ruthenium,Ru,44,101.07,Solid,transition metal
+Rhodium,Rh,45,102.9055,Solid,transition metal
+Palladium,Pd,46,106.42,Solid,transition metal
+Silver,Ag,47,107.8682,Solid,transition metal
+Cadmium,Cd,48,112.411,Solid,transition metal
+Indium,In,49,114.818,Solid,metal
+Tin,Sn,50,118.71,Solid,metal
+Antimony,Sb,51,121.76,Solid,metalloid
+Tellurium,Te,52,127.6,Solid,metalloid
+Iodine,I,53,126.90447,Solid,halogen
+Xenon,Xe,54,131.293,Gas,noble gas
+Cesium,Cs,55,132.9054519,Solid,alkali metal
+Barium,Ba,56,137.327,Solid,alkaline earth metal
+Lanthanum,La,57,138.90547,Solid,lanthanoid
+Cerium,Ce,58,140.116,Solid,lanthanoid
+Praseodymium,Pr,59,140.90765,Solid,lanthanoid
+Neodymium,Nd,60,144.242,Solid,lanthanoid
+Promethium,Pm,61,145,Solid,lanthanoid
+Samarium,Sm,62,150.36,Solid,lanthanoid
+Europium,Eu,63,151.964,Solid,lanthanoid
+Gadolinium,Gd,64,157.25,Solid,lanthanoid
+Terbium,Tb,65,158.92535,Solid,lanthanoid
+Dysprosium,Dy,66,162.5,Solid,lanthanoid
+Holmium,Ho,67,164.93032,Solid,lanthanoid
+Erbium,Er,68,167.259,Solid,lanthanoid
+Thulium,Tm,69,168.93421,Solid,lanthanoid
+Ytterbium,Yb,70,173.054,Solid,lanthanoid
+Lutetium,Lu,71,174.9668,Solid,transition metal
+Hafnium,Hf,72,178.49,Solid,transition metal
+Tantalum,Ta,73,180.94788,Solid,transition metal
+Tungsten,W,74,183.84,Solid,transition metal
+Rhenium,Re,75,186.207,Solid,transition metal
+Osmium,Os,76,190.23,Solid,transition metal
+Iridium,Ir,77,192.217,Solid,transition metal
+Platinum,Pt,78,195.084,Solid,transition metal
+Gold,Au,79,196.966569,Solid,transition metal
+Mercury,Hg,80,200.59,Liquid,transition metal
+Thallium,Tl,81,204.3833,Solid,metal
+Lead,Pb,82,207.2,Solid,metal
+Bismuth,Bi,83,208.9804,Solid,metal
+Polonium,Po,84,209,Solid,metalloid
+Astatine,At,85,210,Solid,halogen
+Radon,Rn,86,222,Gas,noble gas
+Francium,Fr,87,223,Solid,alkali metal
+Radium,Ra,88,226,Solid,alkaline earth metal
+Actinium,Ac,89,227,Solid,actinoid
+Thorium,Th,90,232.03806,Solid,actinoid
+Protactinium,Pa,91,231.03588,Solid,actinoid
+Uranium,U,92,238.02891,Solid,actinoid
+Neptunium,Np,93,237,Solid,actinoid
+Plutonium,Pu,94,244,Solid,actinoid
+Americium,Am,95,243,Solid,actinoid
+Curium,Cm,96,247,Solid,actinoid
+Berkelium,Bk,97,247,Solid,actinoid
+Californium,Cf,98,251,Solid,actinoid
+Einsteinium,Es,99,252,Solid,actinoid
+Fermium,Fm,100,257,Solid,actinoid
+Mendelevium,Md,101,258,Solid,actinoid
+Nobelium,No,102,259,Solid,actinoid
+Lawrencium,Lr,103,262,Solid,transition metal
+Rutherfordium,Rf,104,267,Unknown,transition metal
+Dubnium,Db,105,268,Unknown,transition metal
+Seaborgium,Sg,106,271,Unknown,transition metal
+Bohrium,Bh,107,272,Unknown,transition metal
+Hassium,Hs,108,270,Unknown,transition metal
+Meitnerium,Mt,109,276,Unknown,transition metal
+Darmstadtium,Ds,110,281,Unknown,transition metal
+Roentgenium,Rg,111,280,Unknown,transition metal
+Copernicium,Cn,112,285,Unknown,transition metal
+Ununtrium,Uut,113,284,Unknown,metal
+Ununquadium,Uuq,114,289,Unknown,metal
+Ununpentium,Uup,115,288,Unknown,halogen
+Ununhexium,Uuh,116,293,Unknown,noble gas
+Ununseptium,Uus,117,294,Unknown,alkali metal
+Ununoctium,Uuo,118,294,Unknown,alkaline earth metal

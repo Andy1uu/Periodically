@@ -58,7 +58,10 @@ public class Element {
         this.typeOfElement = typeOfElement;
     }
 
-
+    public String getSymbol() {
+        return this.symbol;
+    }
+    
     /**
      * This method will draw the current Element's information onto the window.
      * 

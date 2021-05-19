@@ -1,5 +1,7 @@
 package periodically;
 
+import java.io.FileNotFoundException;
+
 /**
  * This is the PeriodicallyRunner class that contains the main method and runs
  * Periodically.
@@ -23,7 +25,7 @@ public class PeriodicallyRunner {
      * @throws FileNotFoundException
      *             This exception is thrown if any of the files are not found.
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
         if (args.length > 0) {
             PeriodicallyReader periodicallyReader = new PeriodicallyReader(
                 args[0]);
